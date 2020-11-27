@@ -1,0 +1,7 @@
+TelegramBotAPI
+requests 
+shelve
+mysql-connector-python
+datetime
+pytz
+timezonefinder
